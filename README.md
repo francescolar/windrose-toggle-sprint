@@ -23,8 +23,8 @@ After installing UE4SS, you need to:
 After that, you should be good to go.
 
 Recap of the folder structures that you should have: 
-- **\*Game root\*/R5/Binaries/Win64/Mods/ToggleWalk/Scripts/main.lua**
-- **\*Game root\*/R5/Binaries/Win64/Mods/ToggleWalk/enabled.txt**
+- **\*Game root\*/R5/Binaries/Win64/Mods/ToggleSprint/Scripts/main.lua**
+- **\*Game root\*/R5/Binaries/Win64/Mods/ToggleSprint/enabled.txt**
 
 ## Known Bug
 
